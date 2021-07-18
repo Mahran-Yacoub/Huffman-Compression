@@ -22,9 +22,7 @@
    **Mahran Yacoub From Palestine**
    
   # Screenshot of GUI
-  
-![Uploading Screenshot 2021-07-18 195032.png…]()
-  
+    
   
    
   # Welcome and I hope this Project will be useful for some people😁

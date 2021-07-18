@@ -15,8 +15,8 @@
   
  # Description 
  
-   ***This Project will compress a selected file from any type .png , .jpg , .txt , ... and compress it using huffman algorithm and produce a compressied file 
-   .huff and you can use it also to decompress it to original form***
+   ***This Project will compress a selected file from any type .png , .jpg , .txt , ... and compress it using huffman algorithm and produce a compressed file 
+   with .huff extension and you can use it also to decompress it to original form***
    
   # Developer 
    **Mahran Yacoub From Palestine**

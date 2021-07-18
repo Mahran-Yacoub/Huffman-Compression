@@ -23,7 +23,7 @@
    
   # Screenshot of GUI
   
-  ![Screenshot 2021-07-18 145134](https://user-images.githubusercontent.com/77076151/126065949-3abc2083-228c-4c1c-9699-79f1ca74acd0.png)
+![Uploading Screenshot 2021-07-18 195032.png…]()
   
   
    
